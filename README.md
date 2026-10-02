@@ -22,9 +22,9 @@ I like the moment where **mathematics, physics, code and hardware** meet: a nume
 
 I work on academic experiments, simulations, numerical methods, data projects and electronics.
 
-  </td> </tr> </table> $$i\hbar \frac{\partial}{\partial t}\,\psi(\mathbf{r},t) = \hat{H}\,\psi(\mathbf{r},t)$$ <div align="center"> 
+  </td> </tr> </table>  <div align="center"> 
 
-<sub>Quantum Mechanics · Electromagnetic Theory · Analytical Mechanics · Statistical Mechanics · Electronics</sub>
+
 
   </div> <br/> <img src="h-learning.svg" width="100%" alt="Currently learning" /> <br/> <table> <tr> <td width="50%" valign="top"> <img src="card-cpp.svg" width="100%" alt="C++: modern C++, OOP, data structures" /> 
 
