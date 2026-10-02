@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,sqlite,powerbi,arduino&theme=dark" alt="C, C++, Python, MATLAB, Arduino" height="46" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,arduino&theme=dark" alt="C, C++, Python, MATLAB, Arduino" height="46" /></a>
 
 <br/>
 
@@ -165,85 +165,116 @@ flowchart LR
 
 <br/>
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🔬 Physics and data analysis**<br/>
-`Project name`<br/>
-<sub>What question does it answer?</sub><br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)<br/>
-[Project Link](https://github.com/YOUR_USERNAME/REPO)
+### **🔬 Physics & Data Analysis**
+
+**`Project Name`** <sub><b>What question does it answer?</b></sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
+
 <td width="50%" valign="top">
 
-**🧮 Numerical computation**<br/>
-`Project name`<br/>
-<sub>Which method, which problem?</sub><br/>
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-[Project Link](https://github.com/YOUR_USERNAME/REPO)
+### **🧮 Numerical Computation**
+
+**`Project Name`** <sub><b>Which method, which problem?</b></sub>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**🔌 Electronics**<br/>
-`Project name`<br/>
-<sub>What does the circuit do?</sub><br/>
-![Electronics](https://img.shields.io/badge/Electronics-1f6feb?style=flat-square&logo=arduino&logoColor=white)<br/>
-[Project Link](https://github.com/YOUR_USERNAME/REPO)
+### **🔌 Electronics**
+
+**`Project Name`** <sub><b>What does the circuit do?</b></sub>
+
+![Electronics](https://img.shields.io/badge/Electronics-1f6feb?style=flat-square\&logo=arduino\&logoColor=white)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
+
 <td width="50%" valign="top">
 
-**📡 IoT**<br/>
-`Project name`<br/>
-<sub>What does it sense or control?</sub><br/>
-![IoT](https://img.shields.io/badge/IoT-8b5cf6?style=flat-square)<br/>
-[Project Link](https://github.com/YOUR_USERNAME/REPO)
+### **📡 IoT**
+
+**`Project Name`** <sub><b>What does it sense or control?</b></sub>
+
+![IoT](https://img.shields.io/badge/IoT-8b5cf6?style=flat-square)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**⚙️ C / C++**<br/>
-`Project name`<br/>
-<sub>What are you building?</sub><br/>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)<br/>
-[Project Link](https://github.com/YOUR_USERNAME/REPO)
+### **⚙️ C / C++**
+
+**`Project Name`** <sub><b>What are you building?</b></sub>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
+
 <td width="50%" valign="top">
 
-**🐍 Python**<br/>
-`Project name`<br/>
-<sub>What does it do?</sub><br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-[Project Link](https://github.com/YOUR_USERNAME/REPO)
+### **🐍 Python**
+
+**`Project Name`** <sub><b>What does it do?</b></sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**🌌 Simulation**<br/>
-`Project name`<br/>
-<sub>What system are you simulating?</sub><br/>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-[Project Link](https://github.com/YOUR_USERNAME/REPO)
+### **🌌 Simulation**
+
+**`Project Name`** <sub><b>What system are you simulating?</b></sub>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
+
 <td width="50%" valign="top">
 
-**➕ Next experiment**<br/>
-<sub>Copy any card above and fill it in.</sub>
+### **🧠 Machine Learning**
+
+**`Project Name`** <sub><b>What are you predicting or classifying?</b></sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+
+**[↗ Project Link](https://github.com/YOUR_USERNAME/REPO)**
 
 </td>
 </tr>
 </table>
+
 
 <div align="center"><img src="divider-circuit.svg" width="100%" alt="" /></div>
 
