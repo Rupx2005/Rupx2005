@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Rupom: Physics × Code × Electronics × Data" />
+<img src="hero.svg" width="100%" alt="Rupom: Physics × Code × Electronics × Data" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <sub><b>Currently learning C++ and Data Science</b> while exploring Physics, Electronics, Scientific Computing, IoT and Simulation</sub>
 
-<img src="assets/divider-circuit.svg" width="100%" alt="" />
+<img src="divider-circuit.svg" width="100%" alt="" />
 
 </div>
 
