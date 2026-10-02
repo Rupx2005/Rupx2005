@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="assets/h-about.svg" width="100%" alt="About me" />
+<img src="h-about.svg" width="100%" alt="About me" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 <td width="55%" valign="top">
 
 ```text
-name        Rupom
+Name        Rupom
 field       Physics (undergraduate)
 languages   C · C++ · Python
 also        MATLAB · SQL · Power BI
@@ -52,17 +52,17 @@ I work on academic experiments, simulations, numerical methods, data projects an
 </tr>
 </table>
 
-$$i\hbar \frac{\partial}{\partial t}\,\psi(\mathbf{r},t) = \hat{H}\,\psi(\mathbf{r},t)$$
+
 
 <div align="center">
 
-<sub>Quantum Mechanics &nbsp;·&nbsp; Electromagnetic Theory &nbsp;·&nbsp; Analytical Mechanics &nbsp;·&nbsp; Statistical Mechanics &nbsp;·&nbsp; Electronics</sub>
+
 
 </div>
 
 <br/>
 
-<img src="assets/h-learning.svg" width="100%" alt="Currently learning" />
+<img src="h-learning.svg" width="100%" alt="Currently learning" />
 
 <br/>
 
@@ -70,7 +70,7 @@ $$i\hbar \frac{\partial}{\partial t}\,\psi(\mathbf{r},t) = \hat{H}\,\psi(\mathbf
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/card-cpp.svg" width="100%" alt="C++: modern C++, OOP, data structures" />
+<img src="card-cpp.svg" width="100%" alt="C++: modern C++, OOP, data structures" />
 
 - Modern C++ fundamentals
 - Object-oriented programming
@@ -82,7 +82,7 @@ $$i\hbar \frac{\partial}{\partial t}\,\psi(\mathbf{r},t) = \hat{H}\,\psi(\mathbf
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/card-datascience.svg" width="100%" alt="Data Science: NumPy, Pandas, EDA, SQL" />
+<img src="card-datascience.svg" width="100%" alt="Data Science: NumPy, Pandas, EDA, SQL" />
 
 - Python for data analysis: **NumPy**, **Pandas**
 - Data cleaning and wrangling
@@ -98,9 +98,9 @@ $$i\hbar \frac{\partial}{\partial t}\,\psi(\mathbf{r},t) = \hat{H}\,\psi(\mathbf
 
 > 🎯 **Long-term goal:** a **physics simulation framework / physics engine**, built in C++.
 
-<div align="center"><img src="assets/divider-wave.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider-wave.svg" width="100%" alt="" /></div>
 
-<img src="assets/h-toolchain.svg" width="100%" alt="Toolchain" />
+<img src="h-toolchain.svg" width="100%" alt="Toolchain" />
 
 <br/>
 
@@ -137,7 +137,7 @@ $$i\hbar \frac{\partial}{\partial t}\,\psi(\mathbf{r},t) = \hat{H}\,\psi(\mathbf
 
 <br/>
 
-<img src="assets/h-exploring.svg" width="100%" alt="Exploring" />
+<img src="h-exploring.svg" width="100%" alt="Exploring" />
 
 <br/>
 
@@ -159,9 +159,9 @@ flowchart LR
   classDef red stroke:#ff4d6d,stroke-width:2px
 ```
 
-<div align="center"><img src="assets/divider-wave.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider-wave.svg" width="100%" alt="" /></div>
 
-<img src="assets/h-projects.svg" width="100%" alt="Projects" />
+<img src="h-projects.svg" width="100%" alt="Projects" />
 
 <br/>
 
@@ -245,9 +245,9 @@ flowchart LR
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider-circuit.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider-circuit.svg" width="100%" alt="" /></div>
 
-<img src="assets/h-telemetry.svg" width="100%" alt="GitHub telemetry" />
+<img src="h-telemetry.svg" width="100%" alt="GitHub telemetry" />
 
 <br/>
 
@@ -265,7 +265,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=070a1a&color=00e5ff&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&hide_title=true" alt="Contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupx2005&bg_color=070a1a&color=00e5ff&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&hide_title=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -273,18 +273,18 @@ flowchart LR
 
 <br/>
 
-<img src="assets/h-connect.svg" width="100%" alt="Connect" />
+<img src="h-connect.svg" width="100%" alt="Connect" />
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rupom-ghosh-a96403315)
+[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rupom20050811@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupx2005)
 
 <sub>Happy to talk physics, simulation, electronics, or anything that computes, oscillates or blinks.</sub>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="footer.svg" width="100%" alt="" />
 
 </div>
